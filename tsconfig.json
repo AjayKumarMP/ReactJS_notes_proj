@@ -1,0 +1,16 @@
+{
+    "files": [
+        "**/*.js",
+        "**/*.jsx"
+    ],
+    "typeAcquisition": {
+        "enable": true
+    },
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "typeRoots": [
+            "node_modules/@types"
+        ]
+    }
+}
